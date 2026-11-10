@@ -1,0 +1,6 @@
+{
+  "name": "TravelPilot - Autonomous AI Travel Agent",
+  "description": "Autonomous AI travel agent that continuously plans, monitors disruptions, simulates scenarios, and dynamically replans journeys.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
